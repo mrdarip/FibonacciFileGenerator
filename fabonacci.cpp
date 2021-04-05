@@ -1,12 +1,4 @@
-/*	STATE:2
-
-	=====o=====
-		
-	 DEAD : 0
-	 WIP  : 1
-	 FULL : 2
-	
-	=====0=====
+/*
 
 	#     #                                      
 	##   ## #####  #####    ##   #####  # #####  
@@ -20,7 +12,7 @@
 	TITLE:
 
 	DESCRIPTION:
-	totalmente inutil,inexacto y peligroso, come mucha memoria(ssd,hdd,usb)
+	peligroso, come mucha memoria(ssd,hdd,usb)
 	
    ==============================================
 
